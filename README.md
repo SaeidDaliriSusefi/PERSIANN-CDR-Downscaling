@@ -12,4 +12,4 @@ Python libraries: scikit-learn, pandas, numpy, matplotlib
 
 
 ## 📸 Example Outputs
-![image alt](https://github.com/SaeidDaliriSusefi/Modis-NDVI-Downscaling/blob/0e2dbe4329144cb988b54f580eae1a746b8e5398/Images/Modis_NDVI.png)
+![image alt](https://github.com/SaeidDaliriSusefi/PERSIANN-CDR-Downscaling/blob/b70c7a28446e3f973341731414bce5edc966a1cc/Images/Precipitation.PNG)
